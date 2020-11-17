@@ -64,3 +64,38 @@ https://hackernoon.com/using-gitlab-ci-cd-to-auto-deploy-your-vue-js-application
 https://hackernoon.com/reactjs-continuous-deployment-to-firebase-hosting-using-circle-ci-ed31c0aee2ca
 
 https://hackernoon.com/simplifying-jenkinsfiles-c97cfee13f83
+
+
+
+
+Fear database changes? Get them under control with CI/CD
+The real difference between CI and CD
+I have a confession to make… I commit to master.
+Project-as-Code: The Catalyst DevOps Needs
+The Results Of A Comparison Between Five CI/CD Services
+End to End API Testing with Docker
+Buddy Vs Jenkins: Technical and Tactical Differences
+Staging Environments are Too Important to be Overlooked: Here's Why
+You Need to Make Better Code Reviews
+Why Your Project's 1st Commit Should Have a Working App & CI/CD Pipeline
+
+Set Up Laravel 6 on Google Cloud Run with Continuous Integration [Step-by-Step Guide]
+Guide To Pursue DevOps Agile Development Cycle And Develop a Better Software
+10 FREE Docker, Jenkins, and Maven Courses for Programmers and DevOps Engineers
+Flawless Releases with Continuous Deployment and Docker
+3 Stages of Improving the Working Environment for Developers | by Nico Schmitt
+You don't do Continuous Integration!
+How to Automate Web Accessibility Testing
+The #1 Reason Jenkins Fails
+CI/CD Basics with Travis-CI
+Anti Patterns of Continuous Integration
+Growing Momentum of Afro-Tech Innovation and Our Global Impact
+How To Speed Up Continuous Integration Build With New NPM CI And package-lock.json
+Writing an Open Source Unity Package
+Building Android Apps with Agility: Continuous Integration
+The shortest distance from idea to execution with Jim Rose of CircleCI
+Using feature flags to increase velocity and decrease risk in a modern CI/CD delivery pipeline
+How to build a basic 2 nodes Jenkins architecture on AWS
+Using GitLab CI/CD to auto-deploy your Vue.js application to AWS S3
+ReactJS Continuous Deployment to Firebase Hosting using Circle CI
+Simplifying Jenkinsfiles
