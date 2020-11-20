@@ -6,7 +6,7 @@
 
 [AI Technologies that are Reshaping Social Infrastructure](https://hackernoon.com/ai-technologies-that-are-reshaping-social-infrastructure-451q32yf)
 
-			 [https://hackernoon.com/@limarc2000](https://hackernoon.com/@limarc2000) 
+ [https://hackernoon.com/@limarc2000](https://hackernoon.com/@limarc2000) 
 
 [Mobile Technology Adoption in The Healthcare Industry](https://hackernoon.com/mobile-technology-k74l32if)			 [Reputio](https://hackernoon.com/@reputio) 
 
@@ -20,10 +20,9 @@
 
 [10,000 square feet of opportunity powered by AI](https://hackernoon.com/10-000-square-feet-of-opportunity-powered-by-a-i-bf733b39c305)				 [Patrick Kwete](https://hackernoon.com/@pkwete) 
 
-[Why Software Engineering Processes and Tools Don't Work for Machine Learning](https://hackernoon.com/why-software-engineering-processes-and-tools-dont-work-for-machine-learning-jd8i32zx)	
+[Why Software Engineering Processes and Tools Don't Work for Machine Learning](https://hackernoon.com/why-software-engineering-processes-and-tools-dont-work-for-machine-learning-jd8i32zx)
 
-
-                                	 [comet.mlComet](https://hackernoon.com/@comet.ml) 
+[comet.mlComet](https://hackernoon.com/@comet.ml) 
 
 [Natural Language Processing and How it Could Improve Employee Engagement](https://hackernoon.com/natural-language-processing-and-how-it-can-be-used-to-improve-employee-engagement-s2o3tdu)
 
