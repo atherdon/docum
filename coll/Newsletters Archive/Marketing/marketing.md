@@ -35,7 +35,7 @@
 
 [Marketing Ladder - Basic TEMPLATE](https://docs.google.com/spreadsheets/d/17EfTQp_21WomJ9cwiM4ian9M2QRcbM17_d3DilGNThY/edit?usp=sharing)
 
- [Aneel](https://hackernoon.com/@aneel)
+[Aneel](https://hackernoon.com/@aneel)
 
 [Marketing 303 for Engineers: Understanding Pricing](https://hackernoon.com/marketing-303-for-engineers-pricing-frame-aa71c8860a2b)
 
